@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1094243686429",
+    "firebase_url": "https://keyboardcompatibiltytestsuite.firebaseio.com",
+    "project_id": "keyboardcompatibiltytestsuite",
+    "storage_bucket": "keyboardcompatibiltytestsuite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094243686429:android:2059295d53949bb2",
+        "android_client_info": {
+          "package_name": "org.openintents.keyboardcts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094243686429-adekdmi1ljppdmqoc9pscutpjt25n9bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.openintents.keyboardcts",
+            "certificate_hash": "197ca16575068fb3a2325c4fbc1673b46674edde"
+          }
+        },
+        {
+          "client_id": "1094243686429-vg7poa70ouadidv6i83991nt9cag61ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQIrdq_6cuHeHFUurxsC6P91JnGMGxzIM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094243686429-vg7poa70ouadidv6i83991nt9cag61ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Keyboard Compatibilty Test Suite</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_a_number">Enter a decimal number with dot and/or comma</string>
+    <string name="report_sent">Report sent to openintents.org</string>
+    <string name="decimal_input_only"><b>1. Enter a decimal number like 1.20 or 1,20 in the text field below.</b>\n\n<b>2. Enter the same number in the second field.</b>\n\n<b>3. Click the send button.</b>\n\n<b>4. Do the same with a big number like 1,000.20 or 1.000,20.</b>\n\n The first text field only allows decimals (inputType = numericDecimal). The text field below shows the converted number value using your current language settings.</string>
+    <string name="decimal_input_with_separators">The second text field allows in addition decimal separators (digits="0123456789,.").</string>
+    <string name="shared_data">The data below will be shared with openintents.org when pressing the send button:</string>
+</resources>
